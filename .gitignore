@@ -1,0 +1,10 @@
+/*
+
+!.gitignore
+!/BepInEx/
+!winhttp.dll
+!doorstop_config.ini
+
+BepInEx/LogOutput.log
+BepInEx/config
+BepInEx/cache
