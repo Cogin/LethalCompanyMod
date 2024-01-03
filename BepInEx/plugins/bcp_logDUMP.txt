@@ -392,3 +392,159 @@
 
 12/30/2023 10:45:07 PM: ---End of Session---
 
+1/3/2024 4:05:42 AM: ---Start of Session---
+
+1/3/2024 4:07:26 AM: Applying custom rarities for level: ExperimentationLevel
+
+1/3/2024 4:07:26 AM: Config for level ExperimentationLevel: Centipede:-1,Bunker Spider:-1,Hoarding bug:-1,Flowerman:-1,Crawler:-1,Blob:-1,Girl:-1,Puffer:-1,Nutcracker:-1,Spring:-1,Jester:-1,Masked:-1,LassoMan:-1
+
+1/3/2024 4:07:26 AM: Using default rarity for Centipede: 50
+
+1/3/2024 4:07:26 AM: Using default rarity for Bunker Spider: 75
+
+1/3/2024 4:07:26 AM: Using default rarity for Hoarding bug: 80
+
+1/3/2024 4:07:26 AM: Using default rarity for Flowerman: 30
+
+1/3/2024 4:07:26 AM: Using default rarity for Crawler: 15
+
+1/3/2024 4:07:26 AM: Using default rarity for Blob: 25
+
+1/3/2024 4:07:26 AM: Using default rarity for Girl: 2
+
+1/3/2024 4:07:26 AM: Using default rarity for Puffer: 10
+
+1/3/2024 4:07:26 AM: Using default rarity for Nutcracker: 15
+
+1/3/2024 4:07:26 AM: No rarity information found for Boomba. Skipping.
+
+1/3/2024 4:07:26 AM: Using default rarity for Spring: 5
+
+1/3/2024 4:07:26 AM: Using default rarity for Jester: 1
+
+1/3/2024 4:07:26 AM: Using default rarity for Masked: 1
+
+1/3/2024 4:13:18 AM: Applying custom rarities for level: VowLevel
+
+1/3/2024 4:13:18 AM: Config for level VowLevel: Centipede:-1,Bunker Spider:-1,Hoarding bug:-1,Flowerman:-1,Crawler:-1,Blob:-1,Girl:-1,Puffer:-1,Nutcracker:-1,Spring:-1,Jester:-1,Masked:-1,LassoMan:-1
+
+1/3/2024 4:13:18 AM: Using default rarity for Centipede: 50
+
+1/3/2024 4:13:18 AM: Using default rarity for Bunker Spider: 40
+
+1/3/2024 4:13:18 AM: Using default rarity for Hoarding bug: 50
+
+1/3/2024 4:13:18 AM: Using default rarity for Flowerman: 30
+
+1/3/2024 4:13:18 AM: Using default rarity for Crawler: 20
+
+1/3/2024 4:13:18 AM: Using default rarity for Blob: 25
+
+1/3/2024 4:13:18 AM: Using default rarity for Spring: 40
+
+1/3/2024 4:13:18 AM: Using default rarity for Puffer: 40
+
+1/3/2024 4:13:18 AM: No rarity information found for Boomba. Skipping.
+
+1/3/2024 4:13:18 AM: Using default rarity for Girl: 5
+
+1/3/2024 4:13:18 AM: Using default rarity for Nutcracker: 20
+
+1/3/2024 4:13:18 AM: Using default rarity for Jester: 15
+
+1/3/2024 4:13:18 AM: Using default rarity for Masked: 10
+
+1/3/2024 4:19:26 AM: ---End of Session---
+
+1/3/2024 4:22:05 AM: ---Start of Session---
+
+1/3/2024 4:23:23 AM: Applying custom rarities for level: VowLevel
+
+1/3/2024 4:23:23 AM: Config for level VowLevel: Centipede:-1,Bunker Spider:-1,Hoarding bug:-1,Flowerman:-1,Crawler:-1,Blob:-1,Girl:-1,Puffer:-1,Nutcracker:-1,Spring:-1,Jester:-1,Masked:-1,LassoMan:-1
+
+1/3/2024 4:23:23 AM: Using default rarity for Centipede: 50
+
+1/3/2024 4:23:23 AM: Using default rarity for Bunker Spider: 40
+
+1/3/2024 4:23:23 AM: Using default rarity for Hoarding bug: 50
+
+1/3/2024 4:23:23 AM: Using default rarity for Flowerman: 30
+
+1/3/2024 4:23:23 AM: Using default rarity for Crawler: 20
+
+1/3/2024 4:23:23 AM: Using default rarity for Blob: 25
+
+1/3/2024 4:23:23 AM: Using default rarity for Spring: 40
+
+1/3/2024 4:23:23 AM: Using default rarity for Puffer: 40
+
+1/3/2024 4:23:23 AM: No rarity information found for Boomba. Skipping.
+
+1/3/2024 4:23:23 AM: Using default rarity for Girl: 5
+
+1/3/2024 4:23:23 AM: Using default rarity for Nutcracker: 20
+
+1/3/2024 4:23:23 AM: Using default rarity for Jester: 15
+
+1/3/2024 4:23:23 AM: Using default rarity for Masked: 10
+
+1/3/2024 4:27:06 AM: Applying custom rarities for level: MarchLevel
+
+1/3/2024 4:27:06 AM: Config for level MarchLevel: Centipede:-1,Bunker Spider:-1,Hoarding bug:-1,Flowerman:-1,Crawler:-1,Blob:-1,Girl:-1,Puffer:-1,Nutcracker:-1,Spring:-1,Jester:-1,Masked:-1,LassoMan:-1
+
+1/3/2024 4:27:06 AM: Using default rarity for Centipede: 50
+
+1/3/2024 4:27:06 AM: Using default rarity for Bunker Spider: 40
+
+1/3/2024 4:27:06 AM: Using default rarity for Hoarding bug: 50
+
+1/3/2024 4:27:06 AM: Using default rarity for Flowerman: 30
+
+1/3/2024 4:27:06 AM: Using default rarity for Crawler: 20
+
+1/3/2024 4:27:06 AM: Using default rarity for Blob: 25
+
+1/3/2024 4:27:06 AM: Using default rarity for Spring: 40
+
+1/3/2024 4:27:06 AM: Using default rarity for Puffer: 40
+
+1/3/2024 4:27:06 AM: Using default rarity for Jester: 15
+
+1/3/2024 4:27:06 AM: Using default rarity for Nutcracker: 20
+
+1/3/2024 4:27:06 AM: No rarity information found for Boomba. Skipping.
+
+1/3/2024 4:27:06 AM: Using default rarity for Girl: 10
+
+1/3/2024 4:27:06 AM: Using default rarity for Masked: 10
+
+1/3/2024 4:28:49 AM: Applying custom rarities for level: ExperimentationLevel
+
+1/3/2024 4:28:49 AM: Config for level ExperimentationLevel: Centipede:-1,Bunker Spider:-1,Hoarding bug:-1,Flowerman:-1,Crawler:-1,Blob:-1,Girl:-1,Puffer:-1,Nutcracker:-1,Spring:-1,Jester:-1,Masked:-1,LassoMan:-1
+
+1/3/2024 4:28:49 AM: Using default rarity for Centipede: 50
+
+1/3/2024 4:28:49 AM: Using default rarity for Bunker Spider: 75
+
+1/3/2024 4:28:49 AM: Using default rarity for Hoarding bug: 80
+
+1/3/2024 4:28:49 AM: Using default rarity for Flowerman: 30
+
+1/3/2024 4:28:49 AM: Using default rarity for Crawler: 15
+
+1/3/2024 4:28:49 AM: Using default rarity for Blob: 25
+
+1/3/2024 4:28:49 AM: Using default rarity for Girl: 2
+
+1/3/2024 4:28:49 AM: Using default rarity for Puffer: 10
+
+1/3/2024 4:28:49 AM: Using default rarity for Nutcracker: 15
+
+1/3/2024 4:28:49 AM: No rarity information found for Boomba. Skipping.
+
+1/3/2024 4:28:49 AM: Using default rarity for Spring: 5
+
+1/3/2024 4:28:49 AM: Using default rarity for Jester: 1
+
+1/3/2024 4:28:49 AM: Using default rarity for Masked: 1
+
